@@ -1,0 +1,8 @@
+[2021-04-08T05:47:36.973] [INFO] default - Serving on port 8080
+[2021-04-08T05:47:39.667] [INFO] default - Database connected succesfully
+[2021-04-08T05:47:48.119] [INFO] default - Serving on port 8080
+[2021-04-08T05:47:51.345] [INFO] default - Database connected succesfully
+[2021-04-08T05:48:01.907] [ERROR] default - Page /v1/logasd doesnt exist
+[2021-04-08T05:48:15.550] [ERROR] default - Page /v1/login doesnt exist
+[2021-04-08T05:48:21.627] [ERROR] default - { msg: '[object Object]' }
+[2021-04-08T05:49:08.140] [INFO] default - User ismaoilh logged in succesfully
